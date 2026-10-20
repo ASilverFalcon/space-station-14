@@ -98,7 +98,88 @@
   group: Savory
   solids:
     FoodBreadBun: 1
-    OrganBaseBrain: 1
+    OrganHumanBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeArachnidBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganArachnidBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeDionaBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganDionaBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeDionaNymphingBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganDionaBrainNymphing: 1
+
+- type: microwaveMealRecipe
+  id: RecipeHorrorBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganHorrorBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeMothBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganMothBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeReptilianBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganReptilianBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeSlimeBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganSlimeBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeVoxBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganVoxBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeVulpkaninBrainBurger
+  result: FoodBurgerBrain
+  time: 10
+  group: Savory
+  solids:
+    FoodBreadBun: 1
+    OrganVulpkaninBrain: 1
 
 - type: microwaveMealRecipe
   id: RecipeCatBurger
@@ -1535,7 +1616,88 @@
   group: Cake
   solids:
     FoodCakePlain: 1
-    OrganBaseBrain: 1
+    OrganHumanBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeArachnidBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganArachnidBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeDionaBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganDionaBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeDionaNymphingBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganDionaBrainNymphing: 1
+
+- type: microwaveMealRecipe
+  id: RecipeHorrorBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganHorrorBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeMothBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganMothBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeReptilianBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganReptilianBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeSlimeBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganSlimeBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeVoxBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganVoxBrain: 1
+
+- type: microwaveMealRecipe
+  id: RecipeVulpkaninBrainCake
+  result: FoodCakeBrain
+  time: 15
+  group: Cake
+  solids:
+    FoodCakePlain: 1
+    OrganVulpkaninBrain: 1
 
 - type: microwaveMealRecipe
   id: RecipeSlimeCake
